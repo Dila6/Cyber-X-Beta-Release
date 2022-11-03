@@ -1,4 +1,4 @@
-//༺ᴍʀ┋𝔻𝕚𝕝𝕟𝕖𝕥𝕙𝕦⍣ᵐᵈ༻◎◎◎ https://github.com/darkalphaxteam\\
+//Zimba MD https://github.com/darkalphaxteam\\
 //══════════════THANKS FOR CHEEMS BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
 // EXAM ඉවර උනාම ඉතුරු ටික දෙන්නම් 😓😓😓 GOOD LUCK ALL\\
 const fs = require('fs')
@@ -20,7 +20,7 @@ global.APIKeys = {
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autobio = false  // auto bio system checking on Developing Leval
+global.autobio = true  // auto bio system checking on Developing Leval
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -46,27 +46,27 @@ global.location = "Sri Lanka, Mtara, Kekanadura" //ur location
 global.owner = ['94740768693']
 global.ownertag = '94740768693' //ur tag number
 global.botnumber = '94740768693' //Add your Bot Number For Log
-global.botname = '༺ᴍʀ┋𝔻𝕚𝕝𝕟𝕖𝕥𝕙𝕦⍣ᵐᵈ༻' //ur bot name
+global.botname = 'Zimba MD' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://chat.whatsapp.com/CQv3zLqKYQl3k1IIfoZnmn'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "༺ᴍʀ┋𝔻𝕚𝕝𝕟𝕖𝕥𝕙𝕦⍣ᵐᵈ༻" //ur sticker watermark packname
+global.packname = "Zimba MD" //ur sticker watermark packname
 global.author = "DILNETHU" //ur sticker watermark author
-global.footer = "® ༺ᴍʀ┋𝔻𝕚𝕝𝕟𝕖𝕥𝕙𝕦⍣ᵐᵈ༻"
-global.aliveimg ="https://i.ibb.co/Hp5SLkN/Photo-1665739690225.jpg"
-global.allmenuimg ="https://i.ibb.co/Hp5SLkN/Photo-1665739690225.jpg"
-global.welcomeimg= "https://i.ibb.co/Hp5SLkN/Photo-1665739690225.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.footer = "® Zimba MD"
+global.aliveimg ="https://i.ibb.co/1GDW1VM/Screenshot-20221103-103456-1.jpg"
+global.allmenuimg ="https://i.ibb.co/1GDW1VM/Screenshot-20221103-103456-1.jpg"
+global.welcomeimg= "https://i.ibb.co/1GDW1VM/Screenshot-20221103-103456-1.jpg"
+global.gbyeimg = "https://i.ibb.co/1GDW1VM/Screenshot-20221103-103456-1.jpg"
 global.alivemsg = "𝙸𝙼 𝙾𝙽𝙻𝙸𝙽𝙴 𝙽𝙾𝚆...\n@best_m_otivation\n#lifetips\n#psychol"
 
 //BOT MEDIAS
-global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur error pic
-global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.ibb.co/1GDW1VM/Screenshot-20221103-103456-1.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.ibb.co/1GDW1VM/Screenshot-20221103-103456-1.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://i.ibb.co/1GDW1VM/Screenshot-20221103-103456-1.jpg") //ur error pic
+global.thumb = fs.readFileSync("https://i.ibb.co/1GDW1VM/Screenshot-20221103-103456-1.jpg") //ur thumb pic
 
 //DATA BASED
 
