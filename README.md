@@ -1,4 +1,4 @@
-##                       ༺ZIMBA MD༻
+## <p align = center> ༺ZIMBA MD༻ </p>
 
 <p align = center>   <img src="https://i.ibb.co/1GDW1VM/Screenshot-20221103-103456-1.jpg" alt="GIF" width="250" height="250"/> </p>
 
