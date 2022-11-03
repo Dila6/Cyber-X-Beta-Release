@@ -1,4 +1,4 @@
-## <p align = center> ༺ZIMBA MD༻ </p>
+<p align = center> ༺ZIMBA MD༻ </p>
 
 <p align = center>   <img src="https://i.ibb.co/1GDW1VM/Screenshot-20221103-103456-1.jpg" alt="GIF" width="250" height="250"/> </p>
 
@@ -18,7 +18,7 @@
 
 උදා: ```https://heroku.com/deploy?template=https://github.com/Dila6/ZIMBA-MD```
 
-6.මතක ඇතුව region එකට urope දෙන්න
+6.මතක ඇතුව region එකට Europe දෙන්න
 
 
 ## Deploy Template Link
