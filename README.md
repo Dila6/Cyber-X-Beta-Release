@@ -12,11 +12,15 @@
 
 3.දැන් ඒක upload කරන්න.
 
-4.හෙරොකු account එකක් හදලා මේක Deploy කරන්න.
+4.හෙරොකු account එකක් හදන්න.
+
+5.ඊට පස්සේ පහල තියෙන deploy template එක copy කරලා මේ website එකේ url එක් copy කරලා එකට paste කරන්න
+
+උදා: ```https://heroku.com/deploy?template=https://github.com/Dila6/ZIMBA-MD```
 
 
 ## Deploy Template Link
-```https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Cyber-X-Beta-Release```
+```https://heroku.com/deploy?template=```
 ## Bot Group
 https://chat.whatsapp.com/CQv3zLqKYQl3k1IIfoZnmn
 
