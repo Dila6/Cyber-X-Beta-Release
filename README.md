@@ -18,6 +18,8 @@
 
 උදා: ```https://heroku.com/deploy?template=https://github.com/Dila6/ZIMBA-MD```
 
+6.මතක ඇතුව region එකට urope දෙන්න
+
 
 ## Deploy Template Link
 ```https://heroku.com/deploy?template=```
